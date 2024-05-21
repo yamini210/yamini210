@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yamini Thakur</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 - 🌱 I’m currently learning **React**
 
