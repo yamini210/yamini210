@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://yaminithakur-portfolio.netlify.app/](https://yaminithakur-portfolio.netlify.app/)
+- 👨‍💻 Personal Portfolio [https://yaminithakur-portfolio.netlify.app/](https://yaminithakur-portfolio.netlify.app/)
 
 - 📝 MY internship experience blog [https://medium.com/p/77990cb8384e](https://medium.com/p/77990cb8384e)
 
