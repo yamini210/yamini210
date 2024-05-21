@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yamini Thakur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 - 🌱 I’m currently learning **React**
