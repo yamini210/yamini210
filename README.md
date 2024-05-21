@@ -6,11 +6,13 @@
 
 - 👨‍💻 Personal Portfolio [https://yaminithakur-portfolio.netlify.app/](https://yaminithakur-portfolio.netlify.app/)
 
-- 📝 MY internship experience blog [https://medium.com/p/77990cb8384e](https://medium.com/p/77990cb8384e)
+- 📝 My internship experience blog [https://medium.com/p/77990cb8384e](https://medium.com/p/77990cb8384e)
 
 - 💬 Ask me about **html ,css,js,bootstrap,php,mysql,react**
 
 - 📫 How to reach me **yaminithakur004@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
